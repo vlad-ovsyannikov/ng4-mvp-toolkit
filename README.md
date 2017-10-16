@@ -1,4 +1,7 @@
-# Ng4MvpToolkit
+# Ng4 MvpToolkit [![Build Status](https://travis-ci.org/vlad-ovsyannikov/ng4-mvp-toolkit.svg?branch=master)](https://travis-ci.org/vlad-ovsyannikov/ng4-mvp-toolkit)
+
+
+[Try the demo online](http://ng4-mvp-toolkit.surge.sh)
 
 Inspired by https://github.com/mrholek/CoreUI-Angular
 
